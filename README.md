@@ -5,7 +5,7 @@
 - ✨ **Name**: You can call me Butchy or Sorte
 - 📖 **Major**: Bsc Acct. & MF Fintech
 - 🌐 **Languages**: Fluent in Chinese and English, currently learning Japanese!
-- 🖼️ **Profile Picture**: Created by the talented artist [RoutineArson](https://x.com/routinearson) (credit where it is due!).
+- 🖼️ **Profile Picture**: Created by the talented artist [routinearson](https://x.com/routinearson) (credit where it is due!).
 
 ## 💻 Languages :
 
