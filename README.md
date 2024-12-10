@@ -7,8 +7,6 @@
 - 🌐 **Languages**: Fluent in Chinese and English, currently learning Japanese!
 - 🖼️ **Profile Picture**: Created by the talented artist [RoutineArson](https://x.com/routinearson) (credit where it is due!).
 
----
-
 ## 💻 Languages :
 
 <div align="center">
@@ -19,8 +17,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
-
----
 
 ### Reach me :
 
